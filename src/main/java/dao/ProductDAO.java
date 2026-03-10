@@ -8,6 +8,6 @@ package dao;
  *
  * @author LEGION
  */
-public class ProductDAO {
+public class ProductDAO extends util.DBContext {
     
 }
