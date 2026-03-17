@@ -1,21 +1,22 @@
-<%-- 
-    Document   : dashboard
-    Created on : Mar 10, 2026, 7:33:33 PM
-    Author     : LEGION
---%>
+<%-- Document : dashboard Created on : Mar 10, 2026, 7:33:33 PM Author : LEGION --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
-        <h1>Hello World!</h1>
+    <%@page contentType="text/html" pageEncoding="UTF-8" %>
+        <!DOCTYPE html>
+        <html>
 
-        
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <title>JSP Page</title>
+        </head>
 
-        <h3>tesssssssssssssssssssssssssssssssssssssssssssssssssssss</h3>
-    </body>
-</html>
+        <body>
+            <h1>Hello World!</h1>
+
+
+
+            <h3>tesssssssssssssssssssssssssssssssssssssssssssssssssssss</h3>
+
+            <h3>La Taans Khanh</h3>
+        </body>
+
+        </html>
